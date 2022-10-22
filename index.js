@@ -13,7 +13,7 @@ module.exports.register = async function (data) {
     
     
     // DB Init
-    const keyv = new Keyv(data.db_driver || 'sqlite://'+appRoot+'sleekcmd.sqlite');
+    const keyv = new Keyv(data.db_driver || 'sqlite://'+appRoot+'/sleekcmd.sqlite');
     
     setup = false
     if(!fs.existsSync(appRoot+'/events')) {

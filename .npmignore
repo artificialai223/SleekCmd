@@ -3,6 +3,6 @@
 # Dev files
 commands/
 events/
-database.sqlite
+sleekcmd.sqlite
 test.js
 config.json

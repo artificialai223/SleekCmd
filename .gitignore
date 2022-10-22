@@ -107,5 +107,5 @@ dist
 # Dev files
 commands/
 events/
-database.sqlite
+sleekcmd.sqlite
 config.json
