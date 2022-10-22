@@ -1,0 +1,8 @@
+.gitignore
+
+# Dev files
+commands/
+events/
+database.sqlite
+test.js
+config.json
