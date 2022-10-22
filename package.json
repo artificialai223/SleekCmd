@@ -1,6 +1,6 @@
 {
   "name": "sleekcmd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A super simple command handler for discord bots",
   "main": "index.js",
   "scripts": {
